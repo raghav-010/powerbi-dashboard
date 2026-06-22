@@ -25,6 +25,6 @@ An end-to-end Sales Analytics Dashboard built using Microsoft Power BI, covering
 
 ## Dashboard Preview
 
-![Sales Dashboard](Screenshot%202026-06-22%20212830.png)
+![Sales Dashboard](Screenshot 2026-06-22 212830.png)
 
-![HR Dashboard](Screenshot%202026-06-22%20213231.png)
+![HR Dashboard](Screenshot 2026-06-22 213231.png)

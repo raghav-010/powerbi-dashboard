@@ -22,3 +22,9 @@ An end-to-end Sales Analytics Dashboard built using Microsoft Power BI, covering
 - Interactive and dynamic sales dashboard
 - Multiple visualizations including bar charts, line graphs, cards, matrix and gauge visuals
 - End-to-end project from data import to cloud publishing
+
+- ## Dashboard Preview
+
+![Sales Dashboard](Screenshot 2026-06-22 213047.png)
+
+![HR Dashboard](Screenshot 2026-06-22 213231.png)
